@@ -8,6 +8,8 @@ If you spend your day working in Linux and constantly reaching for Claude, Grok,
 ![Qt](https://img.shields.io/badge/Qt-6.6+-green?logo=qt)
 ![License](https://img.shields.io/badge/License-GPL--2.0-orange)
 
+![FWAI Widget Screenshot](screenshot.png)
+
 ---
 
 ## Features
