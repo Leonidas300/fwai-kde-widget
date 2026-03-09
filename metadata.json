@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "FreeWill"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "AI Assistant Widget - Claude, Grok and more via WebView",
+        "Icon": "preferences-system-windows-effect-dialog-parent",
+        "Id": "com.freewill.ai.widget",
+        "License": "GPL-2.0+",
+        "Name": "FWAI",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
